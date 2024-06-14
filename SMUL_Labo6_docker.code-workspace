@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/suml_3-main/suml_3-main/data"
+		},
+		{
+			"path": "../../../Downloads/suml_3-main/suml_3-main/libs"
+		},
+		{
+			"path": "../../../Downloads/suml_3-main/suml_3-main/ml_models"
+		},
+		{
+			"path": "../../../Downloads/suml_3-main/suml_3-main/models"
+		},
+		{
+			"path": "../../../Downloads/suml_3-main/suml_3-main/necessary_files"
+		}
+	],
+	"settings": {}
+}
